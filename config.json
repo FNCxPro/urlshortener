@@ -1,0 +1,14 @@
+{
+  "production": true,
+  "verbose": true,
+  "server":{
+    "url": "http://domain-of-server",
+    "port": 3567
+  },
+  "db":{
+    "user": "mongo-username",
+    "password":"mongo-password",
+    "host": "mongo-hostname or ip",
+    "name": "database name"
+  }
+}
